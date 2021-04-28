@@ -33,4 +33,14 @@ class Park
     end
     hash
   end
+
+  def visitors_log
+    hash = {}
+    #need to bring in parks visited_parks
+    # build outer hash of years
+    # build interior hash of keys as dates & values as hikers
+    # build hiker.values as array
+    # @parks_visited
+    # require 'pry'; binding.pry
+  end
 end
